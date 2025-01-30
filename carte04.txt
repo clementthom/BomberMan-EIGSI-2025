@@ -1,0 +1,7 @@
+h,h,Bh 2 2,h,h,r,h
+h,r,h,r,h,h,B+a 4 4
+Bv 2 2,h,h,r,r,r,h
+r,e,h,e,h,h,r
+r,h,B*a 4 4,h,Bv 2 3,h,h
+r,h,h,h,h,h,r
+r,r,r,e,B+ 2 3,h,r
